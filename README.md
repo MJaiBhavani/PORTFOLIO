@@ -1,6 +1,7 @@
 # PORTFOLIO
 #HR_ANALYTICS_data Dashboard
-#link: 
+
+#link: https://github.com/MJaiBhavani/PowerBI
 
 Dashboard Link :"C:\Users\jaibh\OneDrive\Documents\HR_ANALYTICS_data.pbix"
 
